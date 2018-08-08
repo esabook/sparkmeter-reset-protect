@@ -1,0 +1,20 @@
+{
+    "program_name":"SPARKMETER RESETTER v0.1.0",
+    "telegram_bot_token":"bot token",
+    "telegram_chat_ids":[],
+    "retry_count_strategy":3,
+    "blob":{
+        "container":"cname",
+        "account_name":"accname",
+        "account_key":"tokenkey"
+    },
+    "mssql":"connection string",
+    "credentials": [
+        {
+            "disabled": true,
+            "baseurl": "https://anyway.com",
+            "password": "anyway",
+            "username": "any@anyway.com"
+        }
+    ]
+}
